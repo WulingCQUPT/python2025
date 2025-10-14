@@ -1,0 +1,7 @@
+name        birthyear    num_of_discussions_on_zhihu   country  
+Nick          1818             0                                           USA 
+Kant          1724           635                                         Germany  
+Rawls	  1921            45                                         
+Nozick       1938                                                          USA
+
+
